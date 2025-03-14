@@ -1,6 +1,5 @@
-Unveiling Market Insights with Power BI
+Unveiling Texas Housing Market Insights with Power BI
 --
-
 The Texas housing market is a dynamic space—prices shift, sales fluctuate, and inventory levels tell a deeper story. But how do we make sense of it all? With data. Using Power BI, I built a dashboard that transforms housing data into actionable insights, giving stakeholders the clarity they need. Here’s how each visualization plays a role:
 
 Charts
